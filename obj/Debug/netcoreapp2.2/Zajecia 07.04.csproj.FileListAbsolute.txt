@@ -1,0 +1,26 @@
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.RazorAssemblyInfo.cache
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.RazorAssemblyInfo.cs
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.AssemblyInfoInputs.cache
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.AssemblyInfo.cs
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Zajecia 07.04.deps.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Zajecia 07.04.runtimeconfig.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Zajecia 07.04.runtimeconfig.dev.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Zajecia 07.04.dll
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Zajecia 07.04.pdb
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.RazorTargetAssemblyInfo.cache
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.dll
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.pdb
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\stefa\Documents\Zajecia 07.04\obj\Debug\netcoreapp2.2\Zajecia 07.04.genruntimeconfig.cache
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\angular.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\e2e\tsconfig.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\package-lock.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\package.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\tsconfig.app.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\tsconfig.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\tsconfig.spec.json
+C:\Users\stefa\Documents\Zajecia 07.04\bin\Debug\netcoreapp2.2\Web\tslint.json
